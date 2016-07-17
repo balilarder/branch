@@ -1,2 +1,5 @@
 This is version1:
 2016/07/17 created by balilarder
+
+
+a new line after a commit of master and branch1
