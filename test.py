@@ -1,7 +1,7 @@
 def test():
-    print "function"
+	print "function"
 a = 3
 
 def test2():
-    print "function"
+	print "function"
 b = 3
